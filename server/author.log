@@ -1,0 +1,2 @@
+2020/12/03 18:31:20 Success: POST http://127.0.0.0:8000/blogs {'author' :  &{0xc0000a82c0 <nil> <nil> false true {0 0} true false false 0x6515a0} '}
+2020/12/03 18:33:32 Success: POST http://127.0.0.0:8000/blogs {'author' :  {} '}
